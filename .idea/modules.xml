@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirebasePushExample.iml" filepath="$PROJECT_DIR$/FirebasePushExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firebase-push-notification-example-updated-master.iml" filepath="$PROJECT_DIR$/firebase-push-notification-example-updated-master.iml" />
+    </modules>
+  </component>
+</project>
